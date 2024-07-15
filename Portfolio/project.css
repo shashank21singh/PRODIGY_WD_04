@@ -1,0 +1,14 @@
+.main{
+    height: 580px;
+    width: 700px;
+    background-color: whitesmoke;
+    margin-left: 270px;
+}
+ul{
+    margin-left: 10%;
+    
+}
+p{
+    color: cadetblue;
+    font-weight: bold;
+}

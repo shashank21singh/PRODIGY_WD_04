@@ -1,0 +1,10 @@
+body{
+    background-color: #008069;
+}
+div{
+    height: 1200px;
+    width: 730px;
+    background-image: url("whatsaap.jpg");
+    background-size: auto;
+    margin-left: 300px;
+}
